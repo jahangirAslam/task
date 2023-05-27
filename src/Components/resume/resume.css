@@ -1,0 +1,98 @@
+.resume{
+    background-color: #FAFAFA;
+}
+.resume-bg{
+    background-color: white!important;
+    margin: 12px;
+}
+.resume-address h3{
+    box-sizing: border-box;
+    padding-top: 3px;
+    font-size: 22px!important;
+    margin-left: 10px;
+}
+.resume-address p{
+    box-sizing: border-box;
+    padding-top: 3px;
+    font-size: 17px!important;
+    color: #C1C1C3;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.resume-accounts{
+    padding-top: 6px;
+    text-align: end;
+}
+.resume-accounts p{
+    box-sizing: border-box;
+    padding-top: 3px;
+    font-size: 17px!important;
+    color: #C1C1C3;
+    font-weight: 600;
+    margin-right: 10px;
+}
+.resume-header h3{
+    box-sizing: border-box;
+    padding-top: 3px;
+    font-size: 22px!important;
+    padding-left: 10px;
+}
+.resume-experience p{
+    box-sizing: border-box;
+    padding-top: 3px;
+    font-size: 19px!important;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.resume-projects{
+    font-weight: 500!important;
+    font-size: 17px!important;
+
+}
+.resume-study-Mas h3{
+    box-sizing: border-box;
+    padding-top: 3px;
+    font-size: 22px!important;
+    padding-left: 10px;
+}
+.resume-study-Mas p{
+    box-sizing: border-box;
+    padding-top: 3px;
+    font-size: 17px!important;
+    color: #C1C1C3;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.resume-study-bach{
+    text-align: end;
+}
+.resume-study-bach h3{
+    box-sizing: border-box;
+    padding-top: 3px;
+    font-size: 22px!important;
+    padding-right: 10px;
+}
+.resume-study-bach p{
+    
+    box-sizing: border-box;
+    padding-top: 3px;
+    font-size: 17px!important;
+    color: #C1C1C3;
+    font-weight: 600;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+.downloadBtn{
+    text-align: center;
+    padding: 20px;
+    
+}
+.downloadBtn button{
+    padding-top: 13px;
+    padding-bottom: 20px;
+    color: white;
+    height: 54px!important;
+    background-color: #5A64CA;
+    border-radius: 12px;
+    border: none!important;
+}

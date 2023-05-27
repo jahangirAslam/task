@@ -1,0 +1,31 @@
+
+.form-container{
+    align-items: center;
+    padding: 20px; 
+    /* height: 100vh; */
+    position: relative;
+    top: 180px;
+}
+.form-col{
+
+   padding: 12px;
+}
+.form-groups{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.form-inputs{
+  
+    /* width: 95%!important; */
+    height: 48px!important;
+    margin: 3px;
+    background-color:#F0F0F0;
+}
+.loginBtn{
+    width: 95%!important;
+    height: 48px!important;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   color: white;
+    background-color: #5A64CA!important;
+}
