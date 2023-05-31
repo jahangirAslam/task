@@ -64,23 +64,23 @@
     padding-left: 10px;
 }
 .resume-study-bach{
-    text-align: end;
+    text-align: start;
+    padding-left: 150px;
 }
 .resume-study-bach h3{
     box-sizing: border-box;
     padding-top: 3px;
     font-size: 22px!important;
-    padding-right: 10px;
+    /* padding-right: 10px; */
 }
 .resume-study-bach p{
     
     box-sizing: border-box;
-    padding-top: 3px;
     font-size: 17px!important;
     color: #C1C1C3;
     font-weight: 600;
-    padding-left: 10px;
-    margin-right: 10px;
+    /* padding-left: 10px;
+    margin-right: 10px; */
 }
 .downloadBtn{
     text-align: center;
